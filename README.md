@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/d2d5a5fe-2bdb-4d88-9bc2-2d7d8c04d00f)
-<p align="center">
-  <img src="https://github.com/BacteriaGroup/WindowsLocker/blob/main/Exmple.png" alt="Image">
-</p>
+
 
 # Bacteria Locker
 ## Features
